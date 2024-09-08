@@ -1,0 +1,12 @@
+{
+  "name": "milestone 3 Hackathone",
+  "version": "1.0.0",
+  "description": "Dynamic Resume here we can fill the formsand the resume is generated based on input",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
